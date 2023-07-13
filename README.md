@@ -11,7 +11,7 @@ Color index was applied to the yearly change column indicating positive or negat
     Values that were greater than 0 were given a color index of 50 (green),
     Values that were less than 0 were given a color index of 3 (red)
 
-With the use of percent change and total stock volume we find the min and max values for the last row summary table
+The use of percent change and total stock volume were used to find both the min and max values for the last row summary table
 
 The following VBA script was applied to every sheet by indicating "for each ws in worksheets" before the loop began
 
